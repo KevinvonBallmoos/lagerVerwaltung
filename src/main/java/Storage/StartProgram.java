@@ -1,6 +1,6 @@
 package Storage;
 
-public class ProgramStart {
+public class StartProgram {
 
 
     public static void main(String[] args) throws InterruptedException {

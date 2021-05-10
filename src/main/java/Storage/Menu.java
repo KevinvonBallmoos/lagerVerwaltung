@@ -41,7 +41,6 @@ public class Menu {
                 System.out.println("Thanks for using our program!");
                 Thread.sleep(500);
                 System.out.println("Have a wonderful Day!");
-
             }
         }
     }
